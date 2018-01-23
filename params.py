@@ -1,3 +1,4 @@
+# coding: utf-8
 class Params:
     _familiya_zayavitelya = "test"
     _imya_zayavitelya = "test"
