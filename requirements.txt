@@ -1,2 +1,2 @@
-elementium
+splinter
 webdriver_manager
